@@ -8,5 +8,7 @@ sentence-transformers
 streamlit
 pandas
 python-dotenv
+torch
+torchvision
 fastapi
 uvicorn

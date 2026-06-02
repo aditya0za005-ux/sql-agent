@@ -225,8 +225,9 @@ The project runs successfully in local development. Free-tier cloud deployments 
 
 
 ### FastAPI Swagger Documentation
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b245787c-d491-474d-96e3-3bb83a04513d" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b61ff48f-2eee-4103-b7c2-0b807a469427" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cb7b9a01-aa64-4e4b-9240-5fe6131bd38a" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/45e31da2-29f4-4465-9a88-320210420ade" />
+
 
 
 ```

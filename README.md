@@ -1,3 +1,6 @@
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/73255e33-8704-49ba-9fa8-8f2f96265133" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9b0c0084-ff9c-4155-890b-42e05176bd04" />
+
 # 🗄️ Autonomous Text-to-SQL Agent
 
 An intelligent multi-agent system that converts natural language questions into SQL queries using LangGraph for workflow orchestration, FAISS for schema-aware retrieval, and Llama 3.3 70B via Groq for reasoning.
